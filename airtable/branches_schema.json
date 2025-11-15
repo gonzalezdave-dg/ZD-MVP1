@@ -1,0 +1,10 @@
+{
+  "fields": [
+    "ID",
+    "Term",
+    "Related1",
+    "Related2",
+    "Related3",
+    "Explanation"
+  ]
+}
