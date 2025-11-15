@@ -1,0 +1,26 @@
+{
+  "Domain": "D1 – Security and Risk Management",
+  "Domain ID": "D1",
+
+  "Intent": "Analyze",
+  "Difficulty": "Medium",
+  "Role Mindset": "Manager",
+
+  "Scenario": "As a security manager, you are reviewing the company's risk management framework. During the assessment, you notice that several critical assets have not been included in the current risk assessment process. This oversight could lead to undetected vulnerabilities and potential financial losses. To address this, you must decide on the best approach to ensure that all assets are evaluated effectively in future assessments.",
+
+  "Question": "Which of the following actions should the manager take FIRST to ensure critical assets are properly evaluated?",
+  
+  "Choice A": "Update the risk register after the next full audit cycle",
+  "Choice B": "Conduct a comprehensive asset inventory immediately",
+  "Choice C": "Request an external risk assessment provider",
+  "Choice D": "Implement new compensating controls on high-value systems",
+
+  "Answer": "B",
+
+  "Explanation": "Conducting a comprehensive asset inventory ensures that all critical assets are identified before any further steps in the risk assessment process. Updating the risk register later (A) delays risk identification. Requesting an external provider (C) is premature without a full asset list. Implementing controls (D) before identifying assets is ineffective.",
+
+  "Takeaway": "Accurate asset inventories are foundational to all risk assessments.",
+  "Study Tip": "Remember: identification always precedes analysis in risk management.",
+  "Pitfall": "Confusing control implementation with asset identification.",
+  "Reference": "(ISC)² Official Study Guide 9th Ed., Domain 1 – Risk Management"
+}
